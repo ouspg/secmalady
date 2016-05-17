@@ -1,4 +1,4 @@
-# Information Security: Panacea becoming a malady"
+# Information Security: Panacea becoming a malady
 
 ## Abstract
 
