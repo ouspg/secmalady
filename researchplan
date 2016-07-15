@@ -1,17 +1,27 @@
 == Research Plan ==
 
 == Abstract ==
-To explain what information security is, has become increasingly difficult; information Security is in constant flux. In this 
-dissertation, information security has many meanings; first, we see it as means of protecting sensitive data, which can be accessed
-and misused via different techniques. In this dissertation, we will focus in 2 most prevalent ones: 1) social engineering, or the misleading
-of users so that they enable the attacker to achieve his goal, 2) technology, or attackers targeting data via technical means, such as 
-cracking or network intrusion. It is important to understand the environment in which the objects of desire (i.e. data) resides in, and 
+Information security spenditure has been projected to be $2.77 trillion for 2016 alone, and the spendings are higher every year. With so much money and
+resources spent, we want to find out what it is exactly, that information security is, by looking at what it does, and what it is 
+becoming. In continuance, to explain what information security is, has become increasingly difficult; information Security is in constant 
+flux. With a better understanding of what information security is, we hope to analyse what should be done about it. We do so by realising
+it is a complex combination of many things; not just people, processes and technology. It is also a subjectivising power, creating
+new knowledge about us as users, making us its subjects as users of systems and sources of data. Security literally molds us, and
+we mold it in return. We argue that to trivialise it as a piece of hardware, or software, or policies is vastly undermining the 
+reality of what is going on. In order to make better security, we need to first understand what it does. 
+
+In this dissertation, information security has many meanings; first, we see it as means of protecting sensitive data, which can be accessed
+and misused via different techniques. We will focus in analysing socio-technical nature of information security, and especially
+two of the most prevalent topics: 1) social engineering, or the misleading of users so that they enable the attacker to achieve his goal, 
+2) technology, or attackers targeting data via technical means, such as cracking or network intrusion. It is important to understand the environment in which the objects of desire (i.e. data) resides in, and 
 constant change of that environment as everything physical changes (bits change order, drives deteroriate, integrity of data is very
 challenging to guarantee over long periods of time), to people and the social in information security. 
 
 We seek to provide a more comprehensive understanding to what information is in a comprehensive manner. We do not seek to separate people,
 technology and processes and put our scientific lense on them as separate phenomena. They exist in the same environment, in the same
-time, affecting each other. We argue that unless we combine all of the elements, our view of information security is incomplete,
+time, affecting each other. 
+
+We argue that unless we combine all of the elements, our view of information security is incomplete,
 and in worst cases, even misleading. Our research so far has revealed that the previous research on topics such as social engineering
 has been lacking in the areas of actual empirical evidence grounded on theoretical underpinnings. In fact, we were not able to 
 repeat the studies, whereas most provided anecdotal evidence. Instead, we brought about new understanding of social engineering by
