@@ -1,0 +1,39 @@
+== Research Plan ==
+
+== Abstract ==
+To explain what information security is, has become increasingly difficult; information Security is in constant flux. In this 
+dissertation, information security has many meanings; first, we see it as means of protecting sensitive data, which can be accessed
+and misused via different techniques. In this dissertation, we will focus in 2 most prevalent ones: 1) social engineering, or the misleading
+of users so that they enable the attacker to achieve his goal, 2) technology, or attackers targeting data via technical means, such as 
+cracking or network intrusion. It is important to understand the environment in which the objects of desire (i.e. data) resides in, and 
+constant change of that environment as everything physical changes (bits change order, drives deteroriate, integrity of data is very
+challenging to guarantee over long periods of time), to people and the social in information security. 
+
+We seek to provide a more comprehensive understanding to what information is in a comprehensive manner. We do not seek to separate people,
+technology and processes and put our scientific lense on them as separate phenomena. They exist in the same environment, in the same
+time, affecting each other. We argue that unless we combine all of the elements, our view of information security is incomplete,
+and in worst cases, even misleading. Our research so far has revealed that the previous research on topics such as social engineering
+has been lacking in the areas of actual empirical evidence grounded on theoretical underpinnings. In fact, we were not able to 
+repeat the studies, whereas most provided anecdotal evidence. Instead, we brought about new understanding of social engineering by
+taking it from the world of persuasion and provided our own explanation as to why it works as a technique. 
+We also seek to understand how information security by what it does, how it subjectivises its users, systems and establishes
+perimeters, politics, that it also governs and monitors. We seek to describe it as an order seeking machine, that tries to establish
+order in the chaotic environment, and how it is - as well as information security - destined to fail. In fact, it has cannot work, 
+except to certain limits at best.
+
+Our research has concluded, that information security is itself a paradox, that often brings new problems, sometimes more, than it 
+solves. Adding security always comes with trade offs not always carefully considered. 
+
+
+
+
+( eka ja toka papru) We argue, that information security cannot be grasped should the previous go unnoticed; authors often seek to categorise, which is very common in traditional
+science (ref. Foucault XXXX), we seek to understand and conceptualize things in taxonomies; things either are, or are not. What we view
+as a forced categorisation into matrixes or binaric models are not conducive to advancing the knowledge of information security.
+
+(toka papru)Gartner is projecting spenditure of $2.77 trillion for 2016 alone, and the spendings are higher every year. With so much money and
+resources spent, we want to find out what it is exactly, that information security is, by looking at what it does, and what it is 
+becoming. We argue, 
+
+
+Information security
