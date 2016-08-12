@@ -1,0 +1,13 @@
+Tutkimus havainnointikyvykkyyden muutoksista
+
+Tutkimuksen tarkoitus on selvittää kuinka lisätty tekninen kontrolli (esimerkiksi palomuuri, IDS/IPS) vaikuttaa puolustavan joukkueen havainnointikykyyn tilanteesta. Tutkimuksesta käy ilmi käyttäjien oma kokemus tilanteesta, jossa kyky havaita ja ymmärtää tilannetta paranee, sekä vaihe, jossa lisätty kontrolli ei enää lisää kykyä (tai mahdollisesti heikentää sitä). Tutkimus olettaa, käyttäjien oma kokemus havainnointikyvystä muuttuu lähtötilanteesta. Näitä muutoksia halutaan seurata ja selvittää mahdollisia syitä. Tutkimuksessa myös oletetaan, että lisätyt laitteet mahdollisesti lisäävät kokonaisuuden kannalta monimutkaisuutta, joten rajaamme tutkimuksen koskemaan vain käyttäjien kokemusta tilanteesta. Tutkimus suoritetaan tarkkailemalla harjoitusta, sekä kyselylomakkeilla, joiden täyttäminen tulisi suorittaa harjoituksen aikana kun tilanne muuttuu oleellisesti. Tilanne muuttuu kun uusi kontrolli lisätään (tai poistetaan). Tutkimuksen teossa ei ole tarkoitus vaikuttaa harjoituksen kulkuun. 
+
+Tilannetta tarkkaillaan myös mahdollisten tilanteiden muuttuessa, jossa tapahtuu yllättäviä muutoksia (tekniset häiriöt tai muut suunnittelemattomat tilanteet), josta tehdään muistiinpanoja. Tutkimuksen onnistumisen kannalta on oleellista tietää, milloin pelisyötteet tulevat, ja mahdolliset muutokset kontrolleihin. Ennalta saatu tieto auttaa valmistautumaan harjoitukseen sekä tarkkailun, että osallistuvien joukkueiden lomakkeiden laadintaan ennalta. 
+
+Tutkimus suoritetaan osana Pekka Tetrin väitöskirjaa Oulun yliopistossa OUSPG-tutkimusryhmässä.
+
+OUSPG (Oulu University Secure Programming Group) (www.ee.oulu.fi/research/ouspg/) on juuri 20 vuotta täyttänyt tutkimusryhmä, jonka tutkii, arvioi ja kehittää menetelmiä sovellustestaukseen jolla estetään, löydetään ja poistetaan tietoturvallisuuden heikkoja implementaatioita. Ryhmä keskittyy sovellusten tietoturvatestausten implementaatioon. 
+
+Ryhmän merkittäviä projekteja ovat olleet mm. PROTOS ja FRONTIER-COMPAT. Ryhmästä on syntynyt kansallisesti ja kansainvälisesti merkittäviä spin-off yrityksiä kuten Codenomicon, Clarified Networks, jotka ovat nykyään osa Synopsys-yritystä.
+
+Pekka Tetri on ollut Locked Shields-harjoituksessa neljä vuotta, jonka aikana harjoitukseen on kehitetty automatisoitu stressiraportointi (kehitetty XenSense-nimisessä yrityksessä, joka spin-off OUSPG:sta). Pekka on toiminut harjoituksen keltaisessa tilannekuva- tiimissä ja tekee viimeistä artikkelia väitöskirjaan, joka keskittyy pääasiallisesti käyttäjien kokemuksiin ja miten tietoturvallisuuden parissa ihmiset havaitsevat ja ymmärtävät erilaisia tilanteita.
