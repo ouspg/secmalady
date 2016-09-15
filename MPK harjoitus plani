@@ -1,0 +1,22 @@
+MPK harjoituksen suunnitelma:
+Introduction:
+Defenders (later BT for Blue Team) are presented with an infrastructure that the attackers (later RT for Red Team) compromises. White team (later WT), oversees the exercise and forms situational awareness. Detection tools are used by BTs. We will study how an added tool (i.e. software firewall, IDS/IPS, proxy) affects the subjective experience of the BTs detection capability. We underline the importance of the user experience as an often forgotten factor. We will correlate the experience with the data gathered from a cyber-exercise, and learn how the increasing amount of technology affected BTs actual detection success. We assume that there is a point with added tools, where the actual capabilities are not increasing, but stay the same or even hinders their work. 
+
+The exercise:
+The exercise will be held inside military facilities, with 4 BTs of varying sizes (FIXME), RT and the WT.
+Team 1
+Team 2
+Team 3
+Team 4
+RT
+WT
+
+Methodology:
+
+Before the exercise:
+Before the exercise begins, all the BTs and BT members will fill a form asking about their background and experience (appendix 1). We need to benchmark BTs by their experience to provide us better understanding of their experience, as we expect some of the more experienced participants might take immediate actions while configuring their controls (they are in default settings from the start).  
+During the exercise:
+New tools are given to BTs during the exercise. When a team is provided one, we will wait until they have completed deploying it (configuration, having a feel for it), and provide a paper form to be filled by every member (appendix 2). We will simply ask if they feel their detection capability increased, stayed the same or was hindered. We will provide the same form with every addition. We will have an assistant for each team handing out the forms, so the timing will go according to the study, and collect the filled forms when they’re completed. 
+After the exercise:
+We will analyze the results and correlate them with the actual events that took place. Then, we will interview each BT member to gain insight to their answers. We will pay attention to the earlier results of the analysis of subjective experience versus objective data (what actually happened). We will also ask them how they started to work (did they run their own scripts to see for things within the infrastructure indicating a breach before the game even started) to see how it correlates with their experience in the earlier benchmarking. 
+We will get data from the forms, explaining the BT member experience. We will correlate it with data from the exercise itself from RT versus BT point of view (were the attacks successful and did the BTs actually detect them). The pervious data presents the actual detection capability, and our research question, of when and if an added tool increases or hinders the detection abilities. Our aim is to pinpoint this moment and use the interviews to gain more insight into the relation between them. 
